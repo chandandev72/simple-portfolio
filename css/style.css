@@ -1,0 +1,17 @@
+
+        h1{
+            color: brown;
+            text-align: center;
+        }
+        h4{
+            color: brown;
+            text-align: center;
+        }
+         img{
+            width: 500px;
+            height: 300px;
+            display: block;
+            margin: auto;
+         }
+         p{text-align: justify;width: 80%;margin: auto}
+
